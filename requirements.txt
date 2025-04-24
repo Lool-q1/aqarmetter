@@ -5,3 +5,5 @@ shap
 joblib
 folium
 streamlit-folium
+scikit-learn
+xgboost
